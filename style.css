@@ -1,0 +1,9 @@
+html, body {
+  background-color: red;
+  margin-left: 7.5%;
+}
+canvas {
+  border: 10px solid red;
+  border-radius: 30px;
+  display: block;
+}
